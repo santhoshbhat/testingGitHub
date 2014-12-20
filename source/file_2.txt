@@ -1,1 +1,1 @@
-This is the second test file.
+This is the second test file. Branch 2 changes.
